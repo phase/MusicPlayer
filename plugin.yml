@@ -1,0 +1,9 @@
+name: MusicPlayer
+main: com.phase.MusicPlayer.MusicPlayer
+version: 1
+description: Music in Minecraft1
+commands:
+  play:
+    description: Main Demize command!
+  tune:
+    description: Main Demize command!
